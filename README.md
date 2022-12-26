@@ -1,6 +1,6 @@
 <img align="center" alt="Cover" width="850px" src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/cover.gif"/>
 
-## Hi there, I'm Sachin <img src="https://raw.githubusercontent.com/iamsachinbagale/iamsachinbagale/blob/main/assets/Hello.gif" width="25"/>
+## Hi there, I'm Sachin <img src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/Hello.gif" width="25"/>
 
 ## I'm a Data Science Enthusiast who enjoys playing with data and connecting the dots.
 - 🔭 <b> Currently working on various Machine Learning, Deep Learning, Data Science projects. </b>
