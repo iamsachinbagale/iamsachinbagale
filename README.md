@@ -1,3 +1,13 @@
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/iamsachinbagale/iamsachinbagale"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/iamsachinbagale/iamsachinbagale/graphs/contributors"><img src="https://img.shields.io/github/contributors/iamsachinbagale/iamsachinbagale?color=blue"></a>
+    <a href="https://github.com/iamsachinbagale/iamsachinbagale/stargazers"><img src="https://img.shields.io/github/stars/iamsachinbagale/iamsachinbagale.svg?logo=github"></a>
+    <a href="https://github.com/iamsachinbagale/iamsachinbagale/network/members"><img src="https://img.shields.io/github/forks/iamsachinbagale/iamsachinbagale.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=iamsachinbagale.iamsachinbagale" alt="visitors"/>   
+</p>
+
 <img align="center" alt="Cover" width="850px" src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/cover.gif"/>
 
 ## Hi there, I'm Sachin <img src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/Hello.gif" width="25"/>
