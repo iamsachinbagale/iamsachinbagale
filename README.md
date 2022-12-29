@@ -1,4 +1,6 @@
 <!--   my-icons -->
+
+
 <p align="center">
     <a href="https://github.com/iamsachinbagale/iamsachinbagale"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
@@ -8,9 +10,13 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=iamsachinbagale.iamsachinbagale" alt="visitors"/>   
 </p>
 
+
+
 <img align="center" alt="Cover" width="850px" src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/cover.gif"/>
 
+
 ## Hi there, I'm Sachin <img src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/Hello.gif" width="25"/>
+
 
 ## I'm a Data Science Enthusiast who enjoys playing with data and connecting the dots.
 - 🔭 <b> Currently working on various Machine Learning, Deep Learning, Data Science projects. </b>
@@ -23,6 +29,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![iamsachinbagale's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamsachinbagale&theme=github-compact)](https://github.com/iamsachinbagale/github-readme-activity-graph)
+
 
 
 
@@ -46,6 +53,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/linkedin.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/medium.png"/>][medium]
 [<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/twitter.png"/>][twitter]
+
 
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sachinworld1234@gmail.com
 [linkedin]: https://www.linkedin.com/in/sachinbagale/
