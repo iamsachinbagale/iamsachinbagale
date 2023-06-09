@@ -26,13 +26,6 @@
 
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![iamsachinbagale's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamsachinbagale&theme=github-compact)](https://github.com/iamsachinbagale/github-readme-activity-graph)
-
-
-
-
 <!--   my-skils -->
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
