@@ -21,7 +21,7 @@
 ## I'm a Data Science Enthusiast who enjoys playing with data and connecting the dots.
 - 🔭 <b> Currently working on various Machine Learning, Deep Learning, Data Science projects. </b>
 - 🌱 <b> I'm learning something new every single day. </b>
-- 🥅 <b> 2023 Goals: Sharpening logical, statistical, problem solving skills, Building my Kaggle Portfolio </b>📚
+- 🥅 <b> 2024 Goals: Sharpening logical, statistical, problem solving skills, Exploring LLMs </b>📚
 - ⚡ <b> Fun fact: Love Football. </b>
 
 
